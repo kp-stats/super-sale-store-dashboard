@@ -57,7 +57,7 @@ This repository houses the comprehensive Power BI dashboard and the accompanying
 * Excel: Employed for storing and organizing the sales data, facilitating easy data manipulation and analysis.
 ## Contact   ![sales GIF](https://s3.ezgif.com/tmp/ezgif-3-c9b08a649d.webp)
 
-For any inquiries, feedback, or issues, please feel free to reach out via email at www.linkedin.com/in/tejaswi-fin. We value your input and look forward to collaborating with you.
+For any inquiries, feedback, or issues, please feel free to reach out via email at www.linkedin.com/in/kpstats. We value your input and look forward to collaborating with you.
 
 
 
